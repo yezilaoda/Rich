@@ -23,6 +23,7 @@ CRichDlg::CRichDlg(CWnd* pParent /*=NULL*/)
 {
 	m_hIcon = AfxGetApp()->LoadIcon(IDR_MAINFRAME);
 
+
 }
 
 void CRichDlg::DoDataExchange(CDataExchange* pDX)
