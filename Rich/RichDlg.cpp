@@ -22,6 +22,7 @@ CRichDlg::CRichDlg(CWnd* pParent /*=NULL*/)
 	, m_sTotalIncome(_T(""))
 {
 	m_hIcon = AfxGetApp()->LoadIcon(IDR_MAINFRAME);
+
 }
 
 void CRichDlg::DoDataExchange(CDataExchange* pDX)
